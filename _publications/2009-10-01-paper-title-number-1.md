@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Shared-Memory Parallelization of MTTKRP for Dense Tensors"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: https://arxiv.org/abs/1708.08976
+excerpt: 'Matricized Tensor Times Khatri-Rao Product (MTTKRP) is the main computational kernel when computing a CP Decomposition of tensors. This paper describes parallelization strategies for efficiently computing MTTKRP for dense tensors.'
+date: 2018-2-01
+venue: 'PPoPP '18: Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (Short Paper)'
+paperurl: '[http://academicpages.github.io/files/Sharmed_Mem_MTTKRP_Full.pdf](https://doi.org/10.1145/3178487.3178522)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Matricized Tensor Times Khatri-Rao Product (MTTKRP) is the main computational kernel when computing a CP Decomposition of tensors. This paper describes parallelization strategies for efficiently computing MTTKRP for dense tensors.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Sharmed_Mem_MTTKRP_Full.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Koby Hayashi, Grey Ballard, Yujie Jiang, and Michael J. Tobia. 2018. Shared-memory parallelization of MTTKRP for dense tensors. In Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP '18). Association for Computing Machinery, New York, NY, USA, 393–394. https://doi.org/10.1145/3178487.3178522
