@@ -12,4 +12,4 @@ Matricized Tensor Times Khatri-Rao Product (MTTKRP) is the main computational ke
 
 [Download paper here](http://academicpages.github.io/files/Sharmed_Mem_MTTKRP_Full.pdf)
 
-Recommended citation: Koby Hayashi, Grey Ballard, Yujie Jiang, and Michael J. Tobia. 2018. Shared-memory parallelization of MTTKRP for dense tensors. In Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP '18). Association for Computing Machinery, New York, NY, USA, 393–394. https://doi.org/10.1145/3178487.3178522
+Recommended citation: 'Koby Hayashi, Grey Ballard, Yujie Jiang, and Michael J. Tobia. 2018. Shared-memory parallelization of MTTKRP for dense tensors. In Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP '18). Association for Computing Machinery, New York, NY, USA, 393–394. https://doi.org/10.1145/3178487.3178522'
