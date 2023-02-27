@@ -7,3 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello, I am Koby Hayashi a PhD student in the [School of Computational Science and Engineering](https://www.cse.gatech.edu/) in the College of Computing at Georgia Tech. I am advised By [Pr. Haesun Park](https://faculty.cc.gatech.edu/~hpark/) and [Pr. Richard Vuduc](https://vuduc.org/v2/). My research studies are supported by the [Department of Energy's Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/). 
+
+Research Interests
+======
+I am generally interested in the areas of High Performance Computing, Numerical Linear Algebra, and their applications to data mining, machine learning, and computational neuroscience.
