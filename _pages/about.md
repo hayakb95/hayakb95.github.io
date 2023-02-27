@@ -11,4 +11,4 @@ Hello, I am Koby Hayashi a PhD student in the [School of Computational Science a
 
 Research Interests
 ======
-I am generally interested in the areas of High Performance Computing, Numerical Linear Algebra, and their applications to data mining, machine learning, and computational neuroscience.
+I am generally interested in the areas of High Performance Computing, Numerical Linear Algebra, and their applications to data mining, machine learning, and computational neuroscience. The common thread among my research problems is the use of Constrained low-rank Matrix and Tensor approximations. These methods can be used in graph clustering (spectral clustering), data compression, latent variable discovery, ect... 
