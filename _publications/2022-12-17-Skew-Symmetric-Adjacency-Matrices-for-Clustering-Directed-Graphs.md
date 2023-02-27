@@ -1,5 +1,5 @@
 ---
-title: "Distributed-Memory Parallel Symmetric Nonnegative Matrix Factorization"
+title: "Skew-Symmetric Adjacency Matrices for Clustering Directed Graphs"
 collection: publications
 permalink: /publication/2022-12-17-Skew-Symmetric-Adjacency-Matrices-for-Clustering-Directed-Graphs
 excerpt: 'We develope a spectral algorithm for clustering directed Graphs. The method uses spectal properties of the Skew-Symmetric Adjacency matrix to find clusters with large imbalanced cuts.'
