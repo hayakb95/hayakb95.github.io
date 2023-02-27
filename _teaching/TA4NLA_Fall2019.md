@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/TA4NLA_Fall2019
 venue: "Georgia Institute of Technology, School of Computational Science and Engineering"
-date: 2014-01-01
+date: 2019-08-16
 location: "Atlanta, USA"
 ---
 
