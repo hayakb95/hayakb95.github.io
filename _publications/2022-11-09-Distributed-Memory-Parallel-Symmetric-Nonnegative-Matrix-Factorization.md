@@ -1,7 +1,7 @@
 ---
 title: "Distributed-Memory Parallel Symmetric Nonnegative Matrix Factorization"
 collection: publications
-permalink: /publication/2022-11-09-Distributed-Memory-Parallel-Symmetric-Nonnegative-Matrix-Factorization.md
+permalink: /publication/2022-11-09-Distributed-Memory-Parallel-Symmetric-Nonnegative-Matrix-Factorization
 excerpt: 'We present two parallel distributed memory algorithms for finding approximate solutions to the Symmetric Nonnegative Matrix Factorization problem. These are the first such algorithms. One is based of the Alternating Nonnegative Least Squares method. The other is based on the Gauss-Newton method with Conjugate Gradients.'
 date: 2022-11-09
 venue: 'SC20: International Conference for High Performance Computing, Networking, Storage and Analysis'
