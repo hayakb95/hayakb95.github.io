@@ -29,6 +29,14 @@ Work experience
   * Explored applications to Neuroimaging.
   * Advised by Pr. Grey Ballard
 
+* Summer 2019: Astro Intern at Oak Ridge National Labs
+  * Worked on parallel and distrubted algorithms for Nonnegative Matrix Factorization
+  * Advised by Dr. Ramakrishnan Kannan
+
+* Summer 2021 and 2022: Berkeley Lab Summer Intern
+  * Worked on developing randomized sampling algorithms for training Graph Neural Networks in Pytorch and Pytorch Geometric
+  * Advised by Pr. Aydın Buluç
+
 Skills
 ======
 * Skill 1
