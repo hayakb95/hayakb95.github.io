@@ -1,7 +1,7 @@
 ---
 title: "Dynamic functional connectivity and individual differences in emotions during social stress"
 collection: publications
-permalink: /publication/2017-09-20-Dynamic-functional-connectivity-and-individual-differences-in-emotions-during-social-stress.md
+permalink: /publication/2017-09-20-Dynamic-functional-connectivity-and-individual-differences-in-emotions-during-social-stress
 date: 2022-11-09
 venue: 'Human Brain Mapping'
 paperurl: 'http://hayakb95.github.io/files/Human_Brain_Mapping.pdf'
