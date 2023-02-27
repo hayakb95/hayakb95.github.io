@@ -1,3 +1,4 @@
+---
 title: "Dynamic functional connectivity and individual differences in emotions during social stress"
 collection: publications
 permalink: /publication/2017-09-20-Dynamic-functional-connectivity-and-individual-differences-in-emotions-during-social-stress.md
