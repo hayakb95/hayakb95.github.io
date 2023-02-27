@@ -17,16 +17,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Intern
+  * NASA and Caltech's Jet Propulsion Laboratory (JPL)
+  * Developed work flows for physical ocean data visualization and processing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2016: REU Fellow at University of Massachusetts at Amherst
+  * Conducted research on Indoor Localization Problem. Determining the location of mobile devies in a building using Wi-Fi signal strengths.
+
+* Graduate Research Assistant, Wake Forest U. 2016-18
+  * Conducted research on Tensor Decompositions. Developed parallel algorithms for shared and distributed memory systems.
+  * Explored applications to Neuroimaging.
+  * Advised by Pr. Grey Ballard
+
 Skills
 ======
 * Skill 1
