@@ -37,15 +37,6 @@ Work experience
   * Worked on developing randomized sampling algorithms for training Graph Neural Networks in Pytorch and Pytorch Geometric
   * Advised by Pr. Aydın Buluç
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -63,7 +54,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+ 
+Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* Computational Science Graduate Fellowship 2019-2023. Four years financial support covering full stipend, tuition and fees for PhD studies for 4 years. (https://www.krellinst.org/csgf/)
+* Research Assistantship 2016-2018 Wake Forest University. Tuition and Stipend for Masters studies in Computer Science.
+* NSF Travel Grant, PPoPP 2018
+* ACM SIGIR Student Travel Grant, CIKM 2020
+* Magna Cum Laude and Honors in Computer Science Wake Forst University 2016
+* IEEE Student Travel Award, ICBD 2022
