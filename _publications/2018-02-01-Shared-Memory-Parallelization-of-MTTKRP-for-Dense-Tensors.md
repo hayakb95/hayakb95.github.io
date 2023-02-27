@@ -1,7 +1,7 @@
 ---
 title: "Shared-Memory Parallelization of MTTKRP for Dense Tensors"
 collection: publications
-permalink: /publication/2018-02-01-Shared-Memory-Parallelization-of-MTTKRP-for-Dense-Tensors.md
+permalink: /publication/2018-02-01-Shared-Memory-Parallelization-of-MTTKRP-for-Dense-Tensors
 excerpt: 'Matricized Tensor Times Khatri-Rao Product (MTTKRP) is the main computational kernel when computing a CP Decomposition of tensors. This paper describes parallelization strategies for efficiently computing MTTKRP for dense tensors.'
 date: 2018-02-01
 venue: 'PPoPP "18: Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (Short Paper)'
