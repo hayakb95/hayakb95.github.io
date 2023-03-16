@@ -2,7 +2,7 @@
 title: "Distributed-Memory Parallele Symmetric Nonnegative Matrix Factorization"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-BLIS-tal
+permalink: /talks/2020-BLIS-talk
 venue: "BLIS Retreat, UT Austin"
 date: 2020
 location: "Austin, Texas"
