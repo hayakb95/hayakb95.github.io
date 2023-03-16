@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-BLIS-talk
 venue: "London School of Testing"
-date: 2014-02-01
+date: 2020-10-10
 location: "Austin, Texas"
 ---
 
