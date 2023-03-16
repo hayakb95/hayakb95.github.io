@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2020-BLIS-talk
 venue: "London School of Testing"
 date: 2014-02-01
-location: "London, UK"
+location: "Austin, Texas"
 ---
 
 [More information here](http://example2.com)
