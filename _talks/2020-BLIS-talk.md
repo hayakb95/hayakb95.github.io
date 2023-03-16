@@ -1,10 +1,10 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Distributed Memory Parallel Symmetric Nonnegative Matrix Factorization"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-BLIS-talk
-venue: "London School of Testing"
-date: 2020-10-10
+venue: "Department of Computer Sciecne, UT Austin"
+date: 2020-09-17
 location: "Austin, Texas"
 ---
 
