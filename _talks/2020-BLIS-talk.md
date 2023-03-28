@@ -10,4 +10,4 @@ location: "Austin, Texas"
 
 [More information here](https://www.cs.utexas.edu/users/flame/BLISRetreat2020/)
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+We develop the first distributed-memory parallel implementation of Symmetric Nonnegative Matrix Factorization (SymNMF), a key data analytics kernel for clustering and dimensionality reduction. Our implementation includes two different algorithms for SymNMF, which give comparable results in terms of time and accuracy.
