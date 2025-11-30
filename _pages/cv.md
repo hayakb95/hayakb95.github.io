@@ -13,29 +13,34 @@ Education
 ======
 * B.S. in Computer Science, Wake Forest University, 2013-16
 * M.S. in Computer Science, Wake Forest University, 2016-18
-* Ph.D in Computational Science and Engineering, College of Computing, Georgia Institute of Technology, 2018-23 (expected)
+* Ph.D in Computational Science and Engineering, College of Computing, Georgia Institute of Technology, 2018-24
 
 Work experience
 ======
-* Summer 2015: Intern
-  * NASA and Caltech's Jet Propulsion Laboratory (JPL)
-  * Developed work flows for physical ocean data visualization and processing
+* 2024-Present: Machine Learning Engineer at Pacific Northwest National Lab
+  * Training and finetuning LLM's, including in distributed, multi-GPU envs
+  * Developing metrics for LLM evaluations for specialized domains
+  * Python programming and package management
 
-* Summer 2016: REU Fellow at University of Massachusetts at Amherst
-  * Conducted research on Indoor Localization Problem. Determining the location of mobile devies in a building using Wi-Fi signal strengths.
+* Summer 2021 and 2022: Berkeley Lab Summer Intern
+  * Worked on developing randomized sampling algorithms for training Graph Neural Networks in Pytorch and Pytorch Geometric
+  * Advised by Pr. Aydın Buluç
+
+* Summer 2019: Astro Intern at Oak Ridge National Labs
+  * Worked on parallel and distrubted algorithms for Nonnegative Matrix Factorization
+  * Advised by Dr. Ramakrishnan Kannan
 
 * Graduate Research Assistant, Wake Forest U. 2016-18
   * Conducted research on Tensor Decompositions. Developed parallel algorithms for shared and distributed memory systems.
   * Explored applications to Neuroimaging.
   * Advised by Pr. Grey Ballard
 
-* Summer 2019: Astro Intern at Oak Ridge National Labs
-  * Worked on parallel and distrubted algorithms for Nonnegative Matrix Factorization
-  * Advised by Dr. Ramakrishnan Kannan
+* Summer 2016: REU Fellow at University of Massachusetts at Amherst
+  * Conducted research on Indoor Localization Problem. Determining the location of mobile devies in a building using Wi-Fi signal strengths.
 
-* Summer 2021 and 2022: Berkeley Lab Summer Intern
-  * Worked on developing randomized sampling algorithms for training Graph Neural Networks in Pytorch and Pytorch Geometric
-  * Advised by Pr. Aydın Buluç
+* Summer 2015: Intern
+  * NASA and Caltech's Jet Propulsion Laboratory (JPL)
+  * Developed work flows for physical ocean data visualization and processing
 
 Publications
 ======
