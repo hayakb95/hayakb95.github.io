@@ -38,7 +38,7 @@ The common thread in my work is developing **principled, scalable methods** that
 
 I'm a contributor to [PLANC](https://github.com/ramkikannan/planc), an open-source C++ library for scalable non-negative matrix factorization and dimension reduction.
 
-You can find my publications on [Google Scholar](https://scholar.google.com/) and code on [GitHub](https://github.com/).
+You can find my publications on [Google Scholar](https://scholar.google.com/).
 
 ---
 
